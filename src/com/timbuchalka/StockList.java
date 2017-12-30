@@ -103,4 +103,10 @@ public class StockList {
 
         return s + "Total stock value " + totalCost;
     }
+    
+    public void myMethod() {
+    	
+    	System.out.println("kakakak");
+    }
+    
 }
